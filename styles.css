@@ -7,7 +7,7 @@
     --primary: #c16f9b;
     --transition: 0.3s ease;
   }
-  body[data-theme="light"] {
+  body[data-theme="dark"] {
     background: var(--bg-light);
     color: var(--fg-light);
   }
